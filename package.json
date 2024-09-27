@@ -33,14 +33,14 @@
 		"*": "prettier --ignore-unknown --write"
 	},
 	"devDependencies": {
-		"@eslint/js": "9.10.0",
+		"@eslint/js": "9.11.0",
 		"@release-it/conventional-changelog": "8.0.1",
 		"@types/eslint__js": "8.42.3",
 		"@types/node": "22.5.0",
 		"@vitest/coverage-v8": "2.1.0",
 		"@vitest/eslint-plugin": "1.1.0",
 		"console-fail-test": "0.5.0",
-		"eslint": "9.10.0",
+		"eslint": "9.11.0",
 		"eslint-plugin-n": "17.10.2",
 		"husky": "9.1.4",
 		"knip": "5.30.0",
